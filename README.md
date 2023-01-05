@@ -20,23 +20,23 @@ distribute system tamam server and clients ik dosry sy connected hai
 dosro sy kam bhi lerhi hoge hamay bhi data lerhi hoge
 
 
-Cloud:publicly available nh h  (jin server ka acess mery pas h woh kisi aur ky pas nh hona chhaye)
-infrastructure:security(mera data kisi ko na jaye) network hardware  mene aws pe server book karawaya h woh koi aur use krly
+# Cloud:publicly available nh h  (jin server ka acess mery pas h woh kisi aur ky pas nh hona chhaye)
+# infrastructure:security(mera data kisi ko na jaye) network hardware  mene aws pe server book karawaya h woh koi aur use krly
 complience(follow as a rule and regulation ) security derha hota h 
-Distributed:meray pas dif procecing unit bany howy h  15 ya 20 server h lekin m usko single app ky tor pe use karsakty h
+# Distributed:meray pas dif procecing unit bany howy h  15 ya 20 server h lekin m usko single app ky tor pe use karsakty h
 woh ik distributed environment h
-networking: 2 ya 2 sy zaayada apas m connect h 
-networks: set of computer connected
+# networking: 2 ya 2 sy zaayada apas m connect h 
+# networks: set of computer connected
 
-Server:service bhi kaha jata h server ky andar app install aur woh app hum kisi dosry computer sy lesakty h
+# Server:service bhi kaha jata h server ky andar app install aur woh app hum kisi dosry computer sy lesakty h
 
-Computing:for example wifi computing device h data ko process krha h lekin store nh krrha data dia usny wapas krdia 
+# Computing:for example wifi computing device h data ko process krha h lekin store nh krrha data dia usny wapas krdia 
 
-processing:kisi ka data ho memory storge kon wifi ko acess h processing device ban gaye h data store ki capacity hote h
+# processing:kisi ka data ho memory storge kon wifi ko acess h processing device ban gaye h data store ki capacity hote h
 
 mazeed programing bhi krsakty h computer ik processing device h (data lekar store krti h aur woh zrort hote h tu woh proces krdeti h
 
-Devices:
+# Devices:
 
 Edge Computing:main server apni info ko hamary pas lakar chor dega un device ppe hum data dekhengy
 Starlink ka system m ik alg device h woh edge computing nh h 
@@ -52,7 +52,7 @@ for example Spotify gany download krta h for example woh indian song download na
 
 
 
-Network:
+# Network:
 CDN content delivery network 
 kuch chezain jinki mujhe bar br zrort parhti h ik pora network banaya howa h 
 ap apni news ya info dy do woh usko dekh lega 
@@ -97,13 +97,13 @@ apny ik website banaye ap bana rhy h kuch log code krrhy  h kuch dekh rhy h
 app ky pechy services chalrhi hote h next js ky andar data ko manipulate krsakty h 
 
 
-edge computing example
+# edge computing example
 1.PMT ik device hosakti h usmy apny resources dal di 
 2.Video ik server pe nh 10 server pe upload hrhe h youtube hamari video ky liye ik server nh pora network derha h
 
 
 
-What is Server?
+# What is Server?
 ik computer h usko as a server use krsakty h resources kam h 
 1 server khrid kr usko apny ghr m rakh kr website upload krlo
 us server pe 1000 log arhy h uski limit khtam
@@ -139,10 +139,10 @@ react m component h page bana lengy unmy component yeh pori file base login bana
 2 type ki rendering hai 
 apki jo bhi file html/css h usko kaisy convert h 
 
-server side component: 
+# server side component: 
 next13 m sbkuch server side component h html render ki server pe CDN ky through render hoge
 
-react client side component: 
+# react client side component: 
 server pe render na karo
 
 
