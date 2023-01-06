@@ -172,6 +172,4 @@ web assembly:browser pe chalegi
 
 client pe js chal rhi hote h  typescript isi liye sikhaye gaye h taky woh web assembly m code likh lein
 
-foag computing:cisco ny ijad kia h foag
 
-cloud and edge middle layer foag h 
